@@ -152,6 +152,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Telegram bot to show COVID-19 visual graphs](https://t.me/covid19_visual_bot) ([repo](https://github.com/iglaweb/covid19_visual_bot)):  Telegram COVID bot is intended to provide visual statistical information about Novel Coronavirus (2019-nCoV)
 - [Realtime Statistical Updates on state of COVID19 in Uganda](https://as1ndu.github.io/covidug/index.html) ([repo](https://github.com/as1ndu/covidug)):  A simple dashboard with realtime statistical updates on state of COVID19 in Uganda
 - [Visualizing Coronavirus Deaths by Country](https://ithoughthecamewithyou.com/post/visualizing-coronavirus-deaths-by-country): Video showing the increase in deaths by country by day.
+- [Cura Italia](https://www.curaitalia.it): Website to monitor Covid-19 in Italy (and in the world)
 
 #### Analysis
 
